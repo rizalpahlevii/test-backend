@@ -1,5 +1,3 @@
-# Phase 2 - Live Code Final
-
 ## FairtualBook
 
 Pada kali ini kalian akan membuat sebuah website yang dapat menampilkan list buku, melihat detail buku dan menambahkan komentar pada buku tersebut, semua fitur membutuhkan login
